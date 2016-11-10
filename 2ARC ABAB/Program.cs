@@ -13,8 +13,6 @@ namespace _2ARC_ABAB
         {
             DllImports.AllocConsole();
 
-            Console.BufferWidth = 100;
-            Console.WindowWidth = Console.BufferWidth;
             Console.Title = "PHPTP";
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Louis Desplanche");
